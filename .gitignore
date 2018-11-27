@@ -1,2 +1,4 @@
 *.csv
 data/yelp_business.csv
+*.zip
+*.npz
