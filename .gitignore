@@ -1,5 +1,5 @@
 *.csv
-data/yelp_business.csv
+data/*
 *.zip
 *.npz
 *.h5
