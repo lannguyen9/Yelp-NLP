@@ -1,5 +1,9 @@
 *.csv
+<<<<<<< HEAD
 data/*
+=======
+data/
+>>>>>>> c549aa14a2b1671da0d860471c385b11d10ece10
 *.zip
 *.npz
 *.h5
